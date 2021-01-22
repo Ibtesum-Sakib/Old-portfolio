@@ -356,7 +356,7 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: crimson;
+    background: #0000FF;
 }
 .skills-content .right .html::before{
     width: 90%;
@@ -474,7 +474,7 @@ section .title::after{
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: crimson;
+    color: #0000FF;
 }
 .contact .contact-content .info .head{
     font-weight: 500;
