@@ -263,11 +263,6 @@ section .title::after{
 .teams .title::before{
     background: red;
 }
-.research .title::after,
-.teams .title::after{
-    background: crimson;
-    content: "what i am doing now";
-}
 .research .serv-content .card{
     width: calc(33% - 20px);
     background: #222;
