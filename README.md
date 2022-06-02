@@ -11,17 +11,17 @@ An explorer and Computer Science graduate looking to expand his knowledge of the
 - 👯 I’m looking to collaborate on Data Science.
 - 🤔 I’m looking for help with Quantum Computing stuff<br>
 - 💬 Ask me about NLP & Machine Learning.
+- 📫 How to reach me: ibtesum38@gmail.com
+- ⚡ Fun fact: One of my favorite pastimes is reading books.  
 <br>
 
 ## Profile's
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Ibtesum-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-ibtesum-sakib-40152a148/)](https://www.linkedin.com/in/mohammad-ibtesum-sakib-40152a148/)
-[![Gmail Badge](https://img.shields.io/badge/%20-Ibtesum38%20-red?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ibtesum38@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-@ibtesumsakib-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ibtesum38)](https://medium.com/@ibtesum38)
-<a href="https://www.facebook.com/mohammadibtesum.sakib" target="_blank"><img src="https://img.shields.io/badge/Ibtesum Sakib-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ibtesum-Sakib) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IbtesumSakib) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-ibtesum-sakib-40152a148/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](@ibtesum38)
 <br>
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
 
 ## Experienced with 
 
@@ -43,87 +43,6 @@ An explorer and Computer Science graduate looking to expand his knowledge of the
 <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code>
 
-<!--- 
-<p align="center" >
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-<code> <img height="50" src="https://github.com/Shakib-IO/profileresource/blob/main/Tensorflow.svg"> </code>
-<code> <img height="50" src="https://github.com/Shakib-IO/profileresource/blob/main/scikitlearn.svg"> </code> 
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/plot_ly-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/databricks.svg"> </code>
-<code> <img height="50" src="https://github.com/Shakib-IO/profileresource/blob/main/tableau.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/metabase.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/cloudera-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/wordpress-ar21.svg"> </code>
-<code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/google_cloud-ar21.svg"> </code>
-<code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
-</p>
-
-###  
-<p align="Center">
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_appengine-ar21.svg"> </code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_maps.svg"> </code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_bigquery.svg"> </code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_admob.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/apple_xcode.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/scala.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/gdal-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/redis-ar21.svg"> </code>
-</p>
--->
-
-<!--- 
-### 
-
-<p align="center">
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/ec2.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/emr.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/athena.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/c9.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/lambda.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/loadBalancer.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/rds.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/redis.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/redshift.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/sagemaker.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/rekognition.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/route53.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/s3.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/sns.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/sqs.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/vpc.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/cloudfront.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/cw.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/apigateway.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/lex.svg"> </code>
-</p>
--->
-
-<!-- 
-<strong>🔭 you can start from here ...</strong>
--->
-<!--
-<a href="https://github.com/uannabi/SparkDataFrame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=SparkDataFrame" width=400> </a> 
-<a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
--->
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-<hr>
-<!--
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Ibtesum-Sakib&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtesum-Sakib&hide=css,java,html&theme=tokyonight">
-</p>
--->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -133,13 +52,24 @@ An explorer and Computer Science graduate looking to expand his knowledge of the
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ibtesum-Sakib&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ibtesum-Sakib) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ibtesum-Sakib) 
 
-<!--<p align="center">
-<summary>:zap: Github Stats</summary>
 
-<img src="https://github-readme-stats.codestackr.vercel.app/api?username=uannabi&show_icons=true" />
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibtesum-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="ibtesum-sakib" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibtesum-sakib" alt="ibtesum-sakib" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
---->
------
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibtesum-sakib&show_icons=true&locale=en&layout=compact" alt="ibtesum-sakib" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibtesum-sakib&show_icons=true&locale=en" alt="ibtesum-sakib" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibtesum-sakib&" alt="ibtesum-sakib" /></p>
