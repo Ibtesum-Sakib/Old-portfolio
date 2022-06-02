@@ -16,7 +16,7 @@ An explorer and Computer Science graduate looking to expand his knowledge of the
 ## Profile's
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-mohammad-ibtesum-sakib-40152a148-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-ibtesum-sakib-40152a148/)](https://www.linkedin.com/in/mohammad-ibtesum-sakib-40152a148/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ibtesum-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-ibtesum-sakib-40152a148/)](https://www.linkedin.com/in/mohammad-ibtesum-sakib-40152a148/)
 [![Gmail Badge](https://img.shields.io/badge/%20-Ibtesum38%20-red?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ibtesum38@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@ibtesumsakib-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ibtesum38)](https://medium.com/@ibtesum38)
 <a href="https://www.facebook.com/mohammadibtesum.sakib" target="_blank"><img src="https://img.shields.io/badge/Ibtesum Sakib-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
