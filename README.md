@@ -55,15 +55,7 @@ An explorer and Computer Science graduate looking to expand his knowledge of the
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ibtesum-Sakib&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibtesum-sakib&" alt="ibtesum-sakib" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibtesum-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="ibtesum-sakib" /> </p>
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibtesum-sakib&" alt="ibtesum-sakib" /></p>
