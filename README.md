@@ -17,7 +17,10 @@ An explorer and Computer Science graduate looking to expand his knowledge of the
 
 ## Profile's
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ibtesum-Sakib) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IbtesumSakib) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-ibtesum-sakib-40152a148/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](@ibtesum38)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ibtesum-Sakib) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IbtesumSakib) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-ibtesum-sakib-40152a148/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](@ibtesum38)
 <br>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
@@ -52,24 +55,15 @@ An explorer and Computer Science graduate looking to expand his knowledge of the
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ibtesum-Sakib&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ibtesum-Sakib) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ibtesum-Sakib) 
-
-
-
-
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibtesum-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="ibtesum-sakib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibtesum-sakib" alt="ibtesum-sakib" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibtesum-sakib&show_icons=true&locale=en&layout=compact" alt="ibtesum-sakib" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibtesum-sakib&show_icons=true&locale=en" alt="ibtesum-sakib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibtesum-sakib&" alt="ibtesum-sakib" /></p>
